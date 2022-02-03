@@ -9,6 +9,6 @@ A solution is proposed which involves modifying the EPS file [here](https://uk.m
 At the command-line, run
 `fixMatlabEPS "(filename here)"`
 
-A `.m` file function for saving EPS files is also provided, giving the function `saveeps(filename)` in case this is easier. The function needs to be in the same folder as `fixMatlabEPS.exe`.
+A `.m` file function for saving EPS files is also provided, giving the function `saveeps(filename)` in case this is easier. The function needs to be modified to point to `fixMatlabEPS.exe`.
 
 
